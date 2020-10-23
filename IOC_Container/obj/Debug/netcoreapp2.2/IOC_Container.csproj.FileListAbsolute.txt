@@ -1,0 +1,3 @@
+C:\Users\User\Desktop\IoC_Container-SmallExample-master\IOC_Container\obj\Debug\netcoreapp2.2\IOC_Container.csprojAssemblyReference.cache
+C:\Users\User\Desktop\IoC_Container-SmallExample-master\IOC_Container\obj\Debug\netcoreapp2.2\IOC_Container.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\IoC_Container-SmallExample-master\IOC_Container\obj\Debug\netcoreapp2.2\IOC_Container.AssemblyInfo.cs
